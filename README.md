@@ -96,3 +96,10 @@ public/
 - Authentication is UI-only for this demo — any email/password combination signs you in. Swap `components/layout/auth-provider.tsx` for a real provider (e.g. NextAuth.js) to add real auth.
 - Notifications and to-dos are demo widgets with example content — they are not derived from the sales dataset.
 - All aggregation happens in `lib/store.ts` at request time from the JSON file; there's no external database.
+
+
+<div align="center">
+
+Built with ❤️ by **Bahar** and **Claude**
+
+</div>
